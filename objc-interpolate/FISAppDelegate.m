@@ -13,6 +13,20 @@
      
      */
     
+    NSLog(@"Dalek");
+    NSLog(@"%@", @"Dalek");
+    NSLog(@"%@%@%@%@%@", @"D", @"a", @"l", @"e", @"k");
+    
+    NSLog(@"You are not The Doctor!");
+    NSLog(@"%@", @"You are not The Doctor!");
+    NSLog(@"%@%@%@%@%@%@", @"You", @"are", @"not", @"The", @"Doctor", @"!");
+    NSLog(@"%@ %@ %@ %@ %@%@", @"You", @"are", @"not", @"The", @"Doctor", @"!");
+    NSLog(@"You are %@ %@!", @"not", @"The Doctor");
+
+    
+    
+    
+    
     // Do not alter
     return YES;  //
     ///////////////
